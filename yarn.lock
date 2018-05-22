@@ -274,10 +274,10 @@ async@^1.5.2:
   resolved "http://registry.npm.taobao.org/async/download/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
 
 async@^2.1.2, async@^2.4.1:
-  version "2.6.0"
-  resolved "http://registry.npm.taobao.org/async/download/async-2.6.0.tgz#61a29abb6fcc026fea77e56d1c6ec53a795951f4"
+  version "2.6.1"
+  resolved "http://registry.npm.taobao.org/async/download/async-2.6.1.tgz#b245a23ca71930044ec53fa46aa00a3e87c6a610"
   dependencies:
-    lodash "^4.14.0"
+    lodash "^4.17.10"
 
 atob@^2.1.1:
   version "2.1.1"
@@ -1138,12 +1138,12 @@ caniuse-api@^1.5.2:
     lodash.uniq "^4.5.0"
 
 caniuse-db@^1.0.30000529, caniuse-db@^1.0.30000634, caniuse-db@^1.0.30000639:
-  version "1.0.30000843"
-  resolved "http://registry.npm.taobao.org/caniuse-db/download/caniuse-db-1.0.30000843.tgz#4f7e8501f557dc9bcd37dd33ac85905c765efec2"
+  version "1.0.30000844"
+  resolved "http://registry.npm.taobao.org/caniuse-db/download/caniuse-db-1.0.30000844.tgz#bca5798cda2b6931d68100c2d69e55fb338cbb41"
 
 caniuse-lite@^1.0.30000835:
-  version "1.0.30000842"
-  resolved "http://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30000842.tgz#7a198e3181a207f4b5749b8f5a1817685bf3d7df"
+  version "1.0.30000844"
+  resolved "http://registry.npm.taobao.org/caniuse-lite/download/caniuse-lite-1.0.30000844.tgz#de7c84cde0582143cf4f5abdf1b98e5a0539ad4a"
 
 center-align@^0.1.1:
   version "0.1.3"
@@ -1663,6 +1663,10 @@ decamelize@^1.0.0, decamelize@^1.1.1, decamelize@^1.1.2:
 decode-uri-component@^0.2.0:
   version "0.2.0"
   resolved "http://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+
+deep-equal@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.npm.taobao.org/deep-equal/download/deep-equal-1.0.1.tgz#f5d260292b660e084eff4cdbc9f08ad3247448b5"
 
 deep-extend@^0.5.1:
   version "0.5.1"
@@ -2435,8 +2439,8 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.0.4"
 
 follow-redirects@^1.0.0:
-  version "1.4.1"
-  resolved "http://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.4.1.tgz#d8120f4518190f55aac65bb6fc7b85fcd666d6aa"
+  version "1.5.0"
+  resolved "http://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.5.0.tgz#234f49cf770b7f35b40e790f636ceba0c3a0ab77"
   dependencies:
     debug "^3.1.0"
 
@@ -2716,8 +2720,8 @@ html-comment-regex@^1.1.0:
   resolved "http://registry.npm.taobao.org/html-comment-regex/download/html-comment-regex-1.1.1.tgz#668b93776eaae55ebde8f3ad464b307a4963625e"
 
 html-minifier@^3.2.3:
-  version "3.5.15"
-  resolved "http://registry.npm.taobao.org/html-minifier/download/html-minifier-3.5.15.tgz#f869848d4543cbfd84f26d5514a2a87cbf9a05e0"
+  version "3.5.16"
+  resolved "http://registry.npm.taobao.org/html-minifier/download/html-minifier-3.5.16.tgz#39f5aabaf78bdfc057fe67334226efd7f3851175"
   dependencies:
     camel-case "3.0.x"
     clean-css "4.1.x"
@@ -3247,7 +3251,7 @@ loader-runner@^2.3.0:
   version "2.3.0"
   resolved "http://registry.npm.taobao.org/loader-runner/download/loader-runner-2.3.0.tgz#f482aea82d543e07921700d5a46ef26fdac6b8a2"
 
-loader-utils@^0.2.16, loader-utils@^0.2.7:
+loader-utils@^0.2.16:
   version "0.2.17"
   resolved "http://registry.npm.taobao.org/loader-utils/download/loader-utils-0.2.17.tgz#f86e6374d43205a6e6c60e9196f17c0299bfb348"
   dependencies:
@@ -3283,7 +3287,7 @@ lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "http://registry.npm.taobao.org/lodash.uniq/download/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
 
-lodash@^4.14.0, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.3.0:
+lodash@^4.17.10, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.0, lodash@^4.3.0:
   version "4.17.10"
   resolved "http://registry.npm.taobao.org/lodash/download/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
 
@@ -3450,8 +3454,8 @@ minimist@^1.2.0:
   resolved "http://registry.npm.taobao.org/minimist/download/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
 
 minipass@^2.2.1, minipass@^2.2.4:
-  version "2.3.0"
-  resolved "http://registry.npm.taobao.org/minipass/download/minipass-2.3.0.tgz#2e11b1c46df7fe7f1afbe9a490280add21ffe384"
+  version "2.3.1"
+  resolved "http://registry.npm.taobao.org/minipass/download/minipass-2.3.1.tgz#4e872b959131a672837ab3cb554962bc84b1537d"
   dependencies:
     safe-buffer "^5.1.1"
     yallist "^3.0.0"
@@ -3502,19 +3506,21 @@ move-concurrently@^1.0.1:
     run-queue "^1.0.3"
 
 mpvue-entry@^0.4.1:
-  version "0.4.1"
-  resolved "http://registry.npm.taobao.org/mpvue-entry/download/mpvue-entry-0.4.1.tgz#41e016ba704d33a8bc7dfd84305b33349750196d"
+  version "0.4.3"
+  resolved "http://registry.npm.taobao.org/mpvue-entry/download/mpvue-entry-0.4.3.tgz#345c037e2ea0525626c1e8060a3f3ed863b33539"
 
 mpvue-loader@^1.0.13:
-  version "1.0.13"
-  resolved "http://registry.npm.taobao.org/mpvue-loader/download/mpvue-loader-1.0.13.tgz#2b759e5e9be266f49db55a14e2f5b5424805c2eb"
+  version "1.0.14"
+  resolved "http://registry.npm.taobao.org/mpvue-loader/download/mpvue-loader-1.0.14.tgz#c03472bf0bd8e102fc085f3dccb96a2feef71368"
   dependencies:
     babelon "^1.0.5"
     consolidate "^0.14.0"
+    deep-equal "^1.0.1"
     hash-sum "^1.0.2"
     js-beautify "^1.6.14"
     loader-utils "^1.1.0"
     lru-cache "^4.1.1"
+    mkdirp "^0.5.1"
     postcss "^6.0.6"
     postcss-load-config "^1.1.0"
     postcss-selector-parser "^2.0.0"
@@ -3526,8 +3532,8 @@ mpvue-loader@^1.0.13:
     vue-template-es2015-compiler "^1.5.3"
 
 mpvue-template-compiler@^1.0.11:
-  version "1.0.11"
-  resolved "http://registry.npm.taobao.org/mpvue-template-compiler/download/mpvue-template-compiler-1.0.11.tgz#aab4f89c07b98030b8be3009002f8b953a2b4f68"
+  version "1.0.12"
+  resolved "http://registry.npm.taobao.org/mpvue-template-compiler/download/mpvue-template-compiler-1.0.12.tgz#79a6f87d1d1bbd726fd1841bc19271b526c38bc7"
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -3538,9 +3544,16 @@ mpvue-webpack-target@^1.0.0:
   dependencies:
     webpack "^3.4.0"
 
-mpvue@^1.0.11:
-  version "1.0.11"
-  resolved "http://registry.npm.taobao.org/mpvue/download/mpvue-1.0.11.tgz#65b2f9c8c35b8447d020f10e47bdc2ff51a2e13d"
+mpvue-zanui@^1.0.2:
+  version "1.0.2"
+  resolved "http://registry.npm.taobao.org/mpvue-zanui/download/mpvue-zanui-1.0.2.tgz#97bef4a5194b6dc3f5e7b5026c86ce5f9b9ddf49"
+  dependencies:
+    mpvue "^1.0.5"
+    vuex "^2.3.1"
+
+mpvue@^1.0.11, mpvue@^1.0.5:
+  version "1.0.12"
+  resolved "http://registry.npm.taobao.org/mpvue/download/mpvue-1.0.12.tgz#03610de052050861edf36b873df91b30623ad233"
 
 ms@2.0.0:
   version "2.0.0"
@@ -4395,13 +4408,13 @@ punycode@^2.1.0:
   resolved "http://registry.npm.taobao.org/punycode/download/punycode-2.1.0.tgz#5f863edc89b96db09074bad7947bf09056ca4e7d"
 
 px2rpx-loader@^0.1.8:
-  version "0.1.9"
-  resolved "http://registry.npm.taobao.org/px2rpx-loader/download/px2rpx-loader-0.1.9.tgz#090036268fe39b03492e0de856fa56bcfe8efd9f"
+  version "0.1.10"
+  resolved "http://registry.npm.taobao.org/px2rpx-loader/download/px2rpx-loader-0.1.10.tgz#15b70d8ce820a34c250845fd454db5e1876e1c25"
   dependencies:
-    loader-utils "^0.2.7"
-    px2rpx "~0.5.3"
+    loader-utils "^1.1.0"
+    px2rpx "^0.5.3"
 
-px2rpx@~0.5.3:
+px2rpx@^0.5.3:
   version "0.5.3"
   resolved "http://registry.npm.taobao.org/px2rpx/download/px2rpx-0.5.3.tgz#120c86e1c64b0a9acb1ce9a13fadbff69e985239"
   dependencies:
@@ -5249,8 +5262,8 @@ uglify-es@^3.3.4:
     source-map "~0.6.1"
 
 uglify-js@3.3.x:
-  version "3.3.25"
-  resolved "http://registry.npm.taobao.org/uglify-js/download/uglify-js-3.3.25.tgz#3266ccb87c5bea229f69041a0296010d6477d539"
+  version "3.3.26"
+  resolved "http://registry.npm.taobao.org/uglify-js/download/uglify-js-3.3.26.tgz#858b74e5e7262e876c834b907a5fa57d4fa0d525"
   dependencies:
     commander "~2.15.0"
     source-map "~0.6.1"
@@ -5464,6 +5477,10 @@ vue-template-es2015-compiler@^1.5.3, vue-template-es2015-compiler@^1.6.0:
   version "1.6.0"
   resolved "http://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
 
+vuex@^2.3.1:
+  version "2.5.0"
+  resolved "http://registry.npm.taobao.org/vuex/download/vuex-2.5.0.tgz#20f0265ade6c9a5ac6724a405d3ffdb4726c9741"
+
 vuex@^3.0.1:
   version "3.0.1"
   resolved "http://registry.npm.taobao.org/vuex/download/vuex-3.0.1.tgz#e761352ebe0af537d4bb755a9b9dc4be3df7efd2"
@@ -5483,8 +5500,8 @@ wcwidth@^1.0.1:
     defaults "^1.0.3"
 
 webpack-bundle-analyzer@^2.2.1:
-  version "2.12.0"
-  resolved "http://registry.npm.taobao.org/webpack-bundle-analyzer/download/webpack-bundle-analyzer-2.12.0.tgz#abb8ed9053123dabeb03a0463db52706f54730c7"
+  version "2.13.0"
+  resolved "http://registry.npm.taobao.org/webpack-bundle-analyzer/download/webpack-bundle-analyzer-2.13.0.tgz#8d7db44c3d4844bc911890998e1110514cf12264"
   dependencies:
     acorn "^5.3.0"
     bfj-node4 "^5.2.0"
