@@ -30,7 +30,9 @@ module.exports = {
     extensions: ['.js', '.vue', '.json'],
     alias: {
       'vue': 'mpvue',
-      '@': resolve('src')
+      '@': resolve('src'),
+      flyio: 'flyio/dist/npm/wx',
+      wx: resolve('node_modules/minapp-api-promise')
     },
     symlinks: false,
     mainFields: ['browser', 'module', 'main']
